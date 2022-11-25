@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       fanor 2022
+      25052sd547855
       </header>
     </div>
   );
